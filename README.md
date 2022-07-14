@@ -12,5 +12,5 @@
 - 깃허브 스터디 repo 입니다.
 
 ### 관련 링크
-- OSS : https://www.oss.kr
+- OSS.kr : https://www.oss.kr
 - 오픈소스 컨트리뷰션 아카데미 : https://www.contribution.ac
